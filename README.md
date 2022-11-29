@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90)
+
 ### Hi there 👋
+
+ ✨Stack✨
 
 <!--
 **codeName-Z/codeName-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
