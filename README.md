@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90)
 
+
 ### Hi there 👋
 
 <div align="center">
-	✨ Stack ✨
+	✨  TECH STACK  ✨
 </div>
 
 <div align="center">
